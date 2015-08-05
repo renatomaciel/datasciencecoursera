@@ -1,0 +1,8 @@
+http://allanino.me/blog/programming/installing-some-r-packages/
+
+apt-get install openjdk-7-*
+sudo R CMD javareconf
+apt-get install libxml2-dev
+install.packages("rJava")
+install.packages("xlsx")
+install.packages("XML")
